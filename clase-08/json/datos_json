@@ -1,0 +1,22 @@
+[
+    {
+        "nombre": "Juan",
+        "edad": 45,
+        "peso": 60.7,
+        "activo": true,
+        "curso": null,
+        "notas": [
+            5,
+            8
+        ],
+        "cursos": [
+            "A",
+            "B"
+        ],
+        "tipo": "P"
+    },
+    {
+        "nombre": "pepe",
+        "tipo": "P"
+    }
+]
